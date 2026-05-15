@@ -1,0 +1,7 @@
+model/
+*.safetensors
+__pycache__/
+uploads/
+venv/
+node_modules/
+.env
